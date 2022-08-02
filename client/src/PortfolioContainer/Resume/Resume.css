@@ -5,6 +5,7 @@
     justify-content: center;
     min-height: fit-content;
     margin: 120px 0;
+    
   }
   
   .resume-card {
@@ -12,11 +13,13 @@
     
     height: 360px;
     width: 1000px;
-     
+    box-shadow: 0 0px 20px -2px #1f2235;
+    
   }
   
   .resume-bullets {
-    box-shadow: 15px 0 9px -15px #1f2235;
+    
+    
     height: 100%;
     width: 320px;
   }
@@ -48,6 +51,7 @@
     height: 100%;
     width: 100%;
     position: relative;
+    
   }
   
   .bullets {

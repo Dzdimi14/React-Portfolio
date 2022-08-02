@@ -14,10 +14,10 @@ export default function AboutMe(props) {
     const fadeInSubscription = ScrollService.currentScreenFadeIn.subscribe(fadeInScreenHandler)
     const SCREEN_CONSTANTS = {
       
-      description: "I am a Vancouver based software developer who loves bringing ideas to life. I am a graduate of UBC where I closely studied the interaction between computing and cognition. I spend my time researching, designing, and building new ideas into applications. When I am not working I am either petting my cats, restoring my old car, or talking a walk in Vancouver's amazing forests.",
+      description: "I am a Vancouver based web developer who loves bringing ideas to life. I am a graduate of UBC where I closely studied the interaction between computing and cognition. I spend my time researching, designing, and building new ideas into applications. When I am not working I am either petting my cats, restoring my old car, or talking a walk in Vancouver's amazing forests.",
       highlights:{
         bullets: [
-          "Full-Stack Development",
+          "Web Development",
           "Front-end and mobile design",
           "React JS",
           "AI Research",
